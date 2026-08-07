@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-s4wvgw.collegiateillustrations.com/sitemap.xml
